@@ -7,7 +7,6 @@ backbone
 accounts-base
 accounts-ui
 accounts-password
-accounts-twitter
 spiderable
 email
 database-forms
@@ -18,3 +17,4 @@ rss
 iron-router
 mailchimp
 nprogress
+accounts-google
